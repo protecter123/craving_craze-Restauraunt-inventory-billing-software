@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "175224892002",
+    "firebase_url": "https://craving-craze-default-rtdb.firebaseio.com",
+    "project_id": "craving-craze",
+    "storage_bucket": "craving-craze.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175224892002:android:7f1eac8ba48b3566e03f3b",
+        "android_client_info": {
+          "package_name": "com.fuertedevelopers.craving_craze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0GZDMxlAk5NwP6xznPz-YQONkZvGLLSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

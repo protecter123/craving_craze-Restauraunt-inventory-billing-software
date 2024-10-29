@@ -1,0 +1,21 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "craving-craze",
+                    "appId": "1:175224892002:android:7f1eac8ba48b3566e03f3b",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "craving-craze",
+                    "configurations": {
+                        "android": "1:175224892002:android:7f1eac8ba48b3566e03f3b"
+                    }
+                }
+            }
+        }
+    }
+}
